@@ -735,7 +735,7 @@ border-radius: 0px 0px 0px 300px;
        margin-right: 0;
     }
     .technology__btn{
-        top: 40vh;
+        top: 30vh;
         right: 100px;
     }
 }
@@ -802,7 +802,7 @@ border-radius: 0px 0px 0px 300px;
         width: 90%;
     }
     .technology__btn{
-        right: 50px;
+        right: 0px;
     }
     
 }
